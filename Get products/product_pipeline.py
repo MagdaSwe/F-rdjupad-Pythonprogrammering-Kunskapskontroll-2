@@ -4,7 +4,7 @@ import sqlite3
 import logging
 from datetime import datetime
 
-API_URL = "https://api.tradedoubler.com/1.0/products.json;page=1;pageSize=100;fid=20968?token=92D3529CA3144687BF4A2CA750EAAD9993033983"
+API_URL = "https://api.tradedoubler.com/1.0/products.json;page=1;pageSize=100;fid=20968?token=xxxx"
 DB_PATH = "products.db"
 LOG_FILE = "product_pipeline_log.txt"
 
